@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
@@ -131,7 +130,7 @@
 <body>
   <!-- Logo -->
   <div class="logo-container">
-    <img src="./quartz/assets/images/catarsis-logo.png" alt="Logo Catarsis">
+    <img src="../quartz/assets/images/catarsis-logo.png" alt="Logo Catarsis">
   </div>
 
   <!-- Acápite -->
