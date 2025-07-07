@@ -1,0 +1,4 @@
+baseURL = "https://catarsis.gitlab.io/catarsis-web/"
+languageCode = "es"
+title = "Catarsis"
+theme = "quartz"
