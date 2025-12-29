@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ .Site.Title }}</title>
+</head>
+<body>
+  <main style="max-width: 900px; margin: 24px auto; padding: 0 16px; font-family: serif;">
+    <div>{{ .Content }}</div>
+
+    <hr style="margin: 28px 0;" />
+
+    <section>
+      {{ range .Site.RegularPages.ByDate.Reverse }}
+        <article style="margin: 18px 0;">
+          <a href="{{ .RelPermalink }}" style="text-decoration:none;">
+            <h2 style="margin:0; font-size: 20px;">{{ .Title }}</h2>
+          </a>
+          <div style="opacity:.7; font-size: 14px;">
+            {{ .Date.Format "2006-01-02" }}
+          </div>
+        </article>
+      {{ end }}
+    </section>
+  </main>
+</body>
+</html>
