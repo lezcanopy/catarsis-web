@@ -1,6 +1,6 @@
-+++
-title = "Catarsis"
-draft = false
-+++
+---
+title: Catarsis
+draft: false
+---
 
-Espacio editorial.
+![Catarsis](/catarsis_header.jpg)
