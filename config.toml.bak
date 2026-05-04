@@ -1,4 +1,4 @@
-baseURL = "https://catarsis.gitlab.io/catarsis-web/"
+baseURL = "http://localhost:1313/"
 languageCode = "es"
 title = "Catarsis"
 theme = "quartz"

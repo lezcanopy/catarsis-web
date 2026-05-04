@@ -1,6 +1,6 @@
 ---
-title: Catarsis
+title: "Catarsis"
 draft: false
 ---
 
-![Catarsis](/catarsis_header.jpg)
+![Catarsis](catarsis_header.jpg)

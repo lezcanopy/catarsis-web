@@ -10,9 +10,7 @@
     <div>
   <img src="{{ "catarsis_header.jpg" | absURL }}" alt="Catarsis" style="width:100%; height:auto;" />
 </div>
-
-
-    <hr style="margin: 28px 0;" />
+    <hr style="margin: 40px 0;" />
 
     <section>
       {{ range .Site.RegularPages.ByDate.Reverse }}
@@ -23,6 +21,8 @@
           <div style="opacity:.7; font-size: 14px;">
             {{ .Date.Format "2006-01-02" }}
           </div>
+	  <p style="margin: 10px 0 6px 0;">{{ .Summary }}</p>
+	  <a href="{{ .RelPermalink }}">Leer más +</a>
         </article>
       {{ end }}
     </section>
