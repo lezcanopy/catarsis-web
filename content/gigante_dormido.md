@@ -1,10 +1,8 @@
 ---
-title: Gigante dormido
+title: ¿Gigante dormido?
 date: 2025-01-16
 draft: false
 ---
-¿Gigante dormido?
-
   
 **Una revisión de las últimas movilizaciones ciudadanas en Paraguay muestra un país en constante efervescencia social, donde las demandas en torno a derechos básicos concentran la atención de una población que no está dormida, sino que lucha por no retroceder en su nivel de vida. Sin embargo, estas expresiones, aunque numerosas y extendidas, no logran convertirse en un movimiento político transformador. Esta aparente desconexión entre las inquietudes sociales y los resultados políticos plantea la necesidad de entender mejor las raíces de las expresiones ciudadanas y sus limitaciones.** 
 
