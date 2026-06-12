@@ -1,11 +1,10 @@
 ---
-title: "Gigante dormido"
-date: 2026-05-04
+title: Gigante dormido
+date: 2025-01-16
 draft: false
 ---
 ¿Gigante dormido?
 
-Tiempo de lectura aprox.: 6 minutos  
   
 _Una revisión de las últimas movilizaciones ciudadanas en Paraguay muestra un país en constante efervescencia social, donde las demandas en torno a derechos básicos concentran la atención de una población que no está dormida, sino que lucha por no retroceder en su nivel de vida. Sin embargo, estas expresiones, aunque numerosas y extendidas, no logran convertirse en un movimiento político transformador. Esta aparente desconexión entre las inquietudes sociales y los resultados políticos plantea la necesidad de entender mejor las raíces de las expresiones ciudadanas y sus limitaciones. En este artículo exploro algunas interrogantes que buscan contribuir al análisis de la situación._   
   
@@ -26,7 +25,7 @@ Los desalojos de comunidades campesinas e indígenas marcaron otro punto crític
 Incluso mientras se escribe este artículo, jubilados se movilizan contra las reformas del régimen legal del Instituto de Previsión Social (IPS) y ciudadanos de distintos puntos del país protestan contra la suba de los precios de los peajes. Todas estas acciones muestran un patrón claro: una sociedad que expresa su malestar y se organiza para defender de sus derechos fundamentales.  
   
 Participación electoral   
-La participación electoral también refleja una forma manifestación política. En 2023, el 63% del padrón, más de 3 millones de votantes, se movilizó para expresar su voluntad en las urnas. Supongamos que estas cifras oficiales estén infladas, aun así, es una movilización importante. > A•VER - Por José Carlos Lezcano: Los datos oficiales muestran tran que el Partido Colorado (ANR) sigue siendo la principal fuerza electoral con más del 42% de los votos; la segunda fuerza fue la Concertación, que tiene como estructura dominante al Partido Liberal (PLRA) junto a varias agrupaciones menores, con un 27% de los votos; y el ya tradicional tercer espacio, ocupado en esta última elección por el Movimiento Cruzada Nacional con algo más del 22% de los votos.  
+La participación electoral también refleja una forma manifestación política. En 2023, el 63% del padrón, más de 3 millones de votantes, se movilizó para expresar su voluntad en las urnas. Supongamos que estas cifras oficiales estén infladas, aun así, es una movilización importante. Los datos oficiales muestran tran que el Partido Colorado (ANR) sigue siendo la principal fuerza electoral con más del 42% de los votos; la segunda fuerza fue la Concertación, que tiene como estructura dominante al Partido Liberal (PLRA) junto a varias agrupaciones menores, con un 27% de los votos; y el ya tradicional tercer espacio, ocupado en esta última elección por el Movimiento Cruzada Nacional con algo más del 22% de los votos.  
   
 Redes sociales  
 En paralelo, las redes sociales se han convertido en un foro abierto. El debate político en este ámbito, si bien muy depreciado en cuanto a su calidad, se desarrolla muy activamente.  
