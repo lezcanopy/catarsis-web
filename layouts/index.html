@@ -4,25 +4,21 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ .Site.Title }}</title>
+  <link rel="stylesheet" href="{{ "style.css" | absURL }}" />
 </head>
 <body>
-  <main style="max-width: 900px; margin: 24px auto; padding: 0 16px; font-family: serif;">
-    <div>
-  <img src="{{ "catarsis_header.jpg" | absURL }}" alt="Catarsis" style="width:100%; height:auto;" />
-</div>
-    <hr style="margin: 40px 0;" />
-
+  <main>
+    <img src="{{ "catarsis_header.jpg" | absURL }}" alt="Catarsis" />
+    <hr />
     <section>
       {{ range .Site.RegularPages.ByDate.Reverse }}
-        <article style="margin: 18px 0;">
-          <a href="{{ .RelPermalink }}" style="text-decoration:none;">
-            <h2 style="margin:0; font-size: 20px;">{{ .Title }}</h2>
+        <article>
+          <a href="{{ .RelPermalink }}">
+            <h2>{{ .Title }}</h2>
           </a>
-          <div style="opacity:.7; font-size: 14px;">
-            {{ .Date.Format "2006-01-02" }}
-          </div>
-	  <p style="margin: 10px 0 6px 0;">{{ .Summary }}</p>
-	  <a href="{{ .RelPermalink }}">Leer más +</a>
+          <div class="fecha">{{ .Date.Format "2006-01-02" }}</div>
+          <p>{{ .Summary }}</p>
+          <a href="{{ .RelPermalink }}">Leer más +</a>
         </article>
       {{ end }}
     </section>
