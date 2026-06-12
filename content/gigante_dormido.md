@@ -1,8 +1,9 @@
 ---
-title: "El título de tu artículo"
+title: "Gigante dormido"
 date: 2026-05-04
 draft: false
 ---
+¿Gigante dormido?
 
 Tiempo de lectura aprox.: 6 minutos  
   
